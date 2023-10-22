@@ -12,7 +12,6 @@ This is an awesome website that displays random memes from Reddit! 😂
 
 - Display random memes from Reddit.
 - Click the "Get Meme" button to refresh.
-- Download the meme using the "Download Meme" button.
 
 ## Contributing 🤝
 
